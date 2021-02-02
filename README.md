@@ -1,11 +1,8 @@
 # FastAPI-Demo
 
-This repository holds the code used for article in Analytics Vidhya Blogathon. To read the corresponding article then head over to this link:
-https://www.analyticsvidhya.com/blog/2020/11/fastapi-the-right-replacement-for-flask/
-
-## Directory Explaination
-
-- [tutorial.py](./tutorial.py) file is the one used for FastAPI demo code in article
-- [music.py](./music.py) file is the class layout (Pydantic model) for data validation
-- [main.py](./main.py) file is the music genre classifier FastAPI code
-- [model_tree.pkl](./model_tree.pkl) is the decision tree classifier file
+## References
+1. [How to deploy fastapi to Google Cloud](https://www.tutlinks.com/deploy-fastapi-app-on-google-cloud-platform/)
+2. https://www.analyticsvidhya.com/blog/2020/11/fastapi-the-right-replacement-for-flask/
+3. https://github.com/windson/fastapi
+4. https://github.com/kaustubhgupta/FastAPI-Demo
+5. https://www.youtube.com/watch?v=kCggyi_7pHg
